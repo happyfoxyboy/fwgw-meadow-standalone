@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:block_blob",
+  "config": {
+    "can_place_on": {
+      "type": "minecraft:matching_blocks",
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "blocks": "minecraft:grass_block"
+    },
+    "state": {
+      "Name": "stone"
+    }
+  }
+}

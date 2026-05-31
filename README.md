@@ -1,5 +1,4 @@
-![Project Logo (Foxy's Wonderfully Grand World - Meadow)](https://cdn.modrinth.com/data/cached_images/857b317a13f5f2598fb94d36253eb3d90f57179e.png)
-# Meadows, but better!
+![Project Logo (Foxy's Wonderfully Grand World - Meadow)](https://cdn.modrinth.com/data/cached_images/76d2f0b4c147a5063523337c2b4d5b3287a850f0.png)
 
 This datapack aims to overhaul the meadow biome by turning it into an actual alpine-like biome.
 

@@ -48,7 +48,7 @@ Ferns are rarely found generating below trees in relatively big patches, similar
 <br>
 
 ## Other Features
-Two extra features have been added/changed.
+Three extra features have been added/changed.
 <br>
 <br>
 ### Rocks

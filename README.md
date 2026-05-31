@@ -61,6 +61,11 @@ Lava lakes have been replaced by water lakes, essentially bringing back the wate
 <br>
 <br>
 
+### Springs
+Water and Lava springs have been removed, as these almost never create good looking water-/lavafalls and usually make the terrain look ugly.
+<br>
+<br>
+
 ## Mobs
 Some rules regarding mobs have been adjusted.
 <br>

@@ -1,0 +1,19 @@
+{
+  "feature": "minecraft:lake_alpine",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 175
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
